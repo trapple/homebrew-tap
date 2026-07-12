@@ -7,7 +7,7 @@ cask "glb-quicklook" do
   desc "Quick Look extension for glTF Binary (.glb) files"
   homepage "https://github.com/trapple/glb-quicklook"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "GLBQuickLook.app"
 
