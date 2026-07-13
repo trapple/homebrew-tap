@@ -1,6 +1,6 @@
 cask "ifc-quicklook" do
-  version "1.0.1"
-  sha256 "cfc4a0c30f89c34a01cca30c060d364dac0268c20bc663c83b410119d6709b9c"
+  version "1.0.2"
+  sha256 "9347ec3af2d7e6f1e22e0375eb5ab8dc698321bbdf7f8c27623abd47456363d1"
 
   url "https://github.com/trapple/ifc-quicklook/releases/download/v#{version}/IFCQuickLook-#{version}.zip"
   name "IFC Quick Look"
