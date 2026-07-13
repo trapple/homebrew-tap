@@ -1,6 +1,6 @@
 cask "3dgs-quicklook" do
-  version "1.2.0"
-  sha256 "f23c54112e5322a8ffed595dc0d88cd649a680ff7aa07f9a110b501aac2a7bfb"
+  version "1.2.1"
+  sha256 "ee5c7f3dc517bd56d144c3097fa49b6f6d771ae343ec9d7a56ba3428ab10b7b4"
 
   url "https://github.com/trapple/3dgs-quicklook/releases/download/v#{version}/SPZQuickLook-#{version}.zip"
   name "3DGS Quick Look"
